@@ -484,7 +484,7 @@ export default defineConfig({
           { text: 'История выгрузок', link: '/audit/export_logs.md' },
           { text: 'Системный лог', link: '/audit/system_log.md' },
           { text: 'Лог тестовых запросов', link: '/audit/test_requests_log.md' },
-          { text: 'База данных', link: '/audit/database_explorer.md' },
+          { text: 'Лог отправки сообщений', link: '/audit/database_explorer.md' },
         ]
       },
 
